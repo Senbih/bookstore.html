@@ -1,0 +1,137 @@
+.background{
+background-image:url("file:///C:/Users/user/OneDrive/Desktop/nonficion/old-book-flying-letters-magic-light-background-bookshelf-library-ancient-books-as-symbol-knowledge-history-218640948%20(1).jpg");
+}
+.zero{
+display:inline;
+background-color:#b68873;
+font:Tahoma;
+color:#b68873;
+height:25px;
+padding:10px;
+border:black 20px solid;
+border-radius:20px;
+}
+a:link{
+color:#c22620;
+text-decoration:none;
+float:left;
+}
+
+a:visited{
+color:blue;
+background-color:#dadada;
+}
+a:hover{
+color:#fb9f9f;
+cursor:cell;
+}
+.image{
+padding:10px;
+border:pink 5px solid;
+display:block;
+margin-left:auto;
+margin-right:auto;
+background-color:#e5e4d7;
+}
+h2{
+float:left;
+padding:20 20px;
+margin-left:150px;
+margin-bottom:150px;
+border:#68873 5px solid;
+background-color:#a2b4e8;
+font-size:15px;
+font-family:Helvetica;
+
+}
+h3,h4{
+float:left;
+padding:20 20px;
+margin-left:40px;
+margin-bottom:10px;
+border:#68873  5px solid;
+background-color:#a2b4e8;
+font-size:15px;
+font-family:Helvetica;
+}
+.button{
+background-color:#b68873;
+border:1px solid;
+border-radius:0.3em;
+font:700 13px Helvetica,Arid;
+height:30px;
+line-height:28px;
+padding:20 10px;
+text-align:center;
+margin-right:10px;
+box-sizing:border-box;
+}
+#main{
+color:black;
+background-colour:#aaf0c1;
+height:20px;
+padding:20px;
+margin:50px;
+border:black 20px solid;
+overflow:scroll;
+}
+#mainbass{
+color:black;
+background-colour:#aaf0c1;
+height:20px;
+padding:20px;
+margin:50px;
+border:black 20px solid;
+overflow:scroll;
+}
+#mainground{
+color:blue;
+background-colour:#aaf0c1;
+height:20px;
+padding:20px;
+margin:50px;
+border:black 20px solid;
+overflow:scroll;
+}
+#mainsos{
+color:black;
+background-colour:#aaf0c1;
+height:150px;
+padding:10px;
+border:pink 5px solid;
+overflow:scroll;
+}
+#mainsos ul{
+padding:0px;
+margin:0px;
+list-style-type:none;
+text-align:center;
+}
+#mainsos li{
+display:inline;
+padding:15px;
+vertical-align:middle;
+}
+.one{
+background-color:#e0d09d;
+font:Tahoma;
+color:black;
+padding:20px;
+border:#68873 5px solid;
+display:block;
+margin-left:auto;
+margin-right:auto;
+}
+ul{
+text-decoration:none;
+list-style-type:none;
+padding:0px;
+margin:opx;
+}
+li{
+display:block;
+padding:20px;
+list-style-type:none;
+vertical-align:middle;
+}
+
